@@ -11,7 +11,8 @@
     },
     {
       "text": "Event details",
-      "url": "/event-details"
+      "url": "/event-details",
+      "external": false
     }
   ]
 }
