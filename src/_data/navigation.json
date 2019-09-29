@@ -6,14 +6,12 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andybelldesign/hylia",
-      "external": true
+      "text": "Register for WIAD Atlanta 2020",
+      "url": "/register"
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
-      "external": true
+      "text": "Event details",
+      "url": "/event-details"
     }
   ]
 }
