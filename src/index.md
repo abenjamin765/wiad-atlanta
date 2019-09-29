@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A placeholder page for WIAD Atlanta 20202
+title: A placeholder page for WIAD Atlanta 2020
 postsHeading: Stuff...
 archiveButtonText: See more stuff...
 socialImage: ''
